@@ -1,0 +1,14 @@
+.venv/
+refs/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+data/
+checkpoints/
+runs/
+*.pt
+*.safetensors
+*.nsys-rep
+*.ncu-rep
+*.json.gz
